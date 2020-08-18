@@ -1,0 +1,118 @@
+/* Theme colour:  #dd760b*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Lato';
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+  }
+ 
+  a:visited {
+    color: rgb(115, 255, 0);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  a:hover {
+    color: rgb(236, 4, 120);
+    text-decoration: none;
+    font-size: 23px;
+    border-image-width: 5px;
+  }
+
+.div-header{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-weight:120px;
+    font-size: 20px; 
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+}
+
+.section-costing {
+    padding: 60px 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.scheme {
+    display: inline-block;
+    padding: 10px;
+    background-color: #d1d1ff;
+    width: 30%;
+    height: auto;
+    margin-left: 2.5%;
+    border: 2px solid #6c6c6c;
+    border-radius: 10px;
+}
+
+.scheme-type {
+    width: 100%;
+    color: #00f;
+    text-align: center;
+    font-size: 200%;
+}
+
+.scheme-capacity {
+    text-align: center;
+    color: #535353;
+}
+
+.scheme-details {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 700;
+    color: grey;
+}
+
+.scheme-buy-section {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    margin-left: 2.5%;
+    margin-top: 30px;
+}
+
+.scheme-buy {
+    font-size: 90%;
+    color: #00f;
+}
+
+.scheme-buy-btn-link {
+    text-decoration: none;
+}
+
+.scheme-buy-btn {
+    display: block;
+    width: 60px;
+    height: 40px;
+    background-color: #4747d3;
+    color: #fff;
+    padding: 5px 9px;
+    border: 3px solid #001796;
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+}
+
+.scheme-buy-btn:hover {
+    transform: scale(1.1);
+}

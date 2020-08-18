@@ -1,0 +1,172 @@
+/* Theme colour:  #dd760b */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Lato';
+    background-color: #f4f4f4;
+}
+
+.navlink:link {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+  }
+ 
+  .navlink:visited {
+    color: rgb(115, 255, 0);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .navlink:hover {
+    color: rgb(236, 4, 120);
+    text-decoration: none;
+    font-size: 23px;
+    border-image-width: 5px;
+  }
+
+div.header{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-weight:120px;
+    font-size: 20px; 
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
+}
+
+.logo-img {
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 120px;
+    height: auto;
+}
+
+.logo-img img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+header nav {
+    float: right;
+    display: inline-block;
+}
+
+.nav-list {
+    display: inline-block;
+    list-style: none;
+    margin-top: 25px;
+}
+
+.nav-list a {
+    font-size: 90%;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-list li {
+    background-color: #dd760b;
+    display: inline-block;
+    margin-right: 50px;
+    line-height: 25px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    transition: background 0.5s, transform 0.5s;
+}
+
+.nav-list li:hover {
+    background-color: #bc660c;
+    transform: scale(1.1);
+}
+
+.heading {
+    padding: 40px 0;
+}
+
+section h1 {
+    font-size: 200%;
+    display: block;
+    color: #00f;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 120%;
+    color: #00f;
+    text-align: center;
+}
+
+.about-us {
+    display: inline-block;
+    width: 50%;
+    padding: 20px 5% 20px 20px;
+    color: #404040;
+    font-size: 90%;
+    text-align: justify;
+    border-right: 2px solid #404040;
+    margin-left: 3%;
+}
+
+.common-questions {
+    display: inline-block;
+    margin-left: 5%;
+    width: 40%;
+    line-height: 25px;
+    padding-top: 20px;
+}
+
+.common-questions p {
+    color: #404040;
+    margin-bottom: 10px;
+}
+
+.common-questions a:link,
+.common-questions a:visited {
+    text-decoration: none;
+    color: #00f;
+    font-weight: 400;
+    transition: color 0.5s;
+}
+
+.common-questions a:hover,
+.common-questions a:active {
+    color: #0000ad;
+    font-weight: 700;
+}
+
+.help-data-section {
+    padding-top: 50px;
+}
+
+.help-data {
+    width: 100%;
+}
+
+.help-data .help-data-txt {
+    color: #404040;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 90%;
+    text-align: justify;
+}
+
+.help-data-txt:last-of-type {
+    margin-bottom: 50px;
+}
+
+.help-features {
+    list-style: circle;
+}
