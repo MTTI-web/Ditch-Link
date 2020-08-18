@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania');
+
+
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    margin: 0;
+}
+
+nav li{
+    display: inline;
+    color: white;
+    font-weight: bold;
+}
+
+nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+    margin: 0 10%;
+}
+
+nav a:hover {
+    background-color: rgba(255,255,255,.3);
+}
+
+
+.main-header {
+    background-color: red;
+    padding-bottom: 20px;
+}
+
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom:  1px solid gray;
+}
+
+.band-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    color: white;
+    font-style: italic;
+    font-family: Metal Mania;
+    font-stretch: expanded;
+}
+
+.band-name-large {
+    font-size: 6em;
+}
+
+.content-section {
+    margin: 1em;
+    font-size: 1.2em;
+}
+
+.container {
+    max-width: 900px;
+    margin:  auto;
+    padding: 0 1.5em
+}
+
+.section-header {
+    font-family: Metal Mania;
+    text-align: center;
+    color: #333;
+    font-size: 2em;
+    font-weight: normal;
+}
+
+.circle-image {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.main-footer {
+    background-color: #56CCF2;
+    padding: 1em 0;
+    text-align: left;
+}
+
+.btn {
+    text-align: center;
+    vertical-align: center;
+    padding: .67em;
+    cursor: pointer;
+}
+
+.btn-header {
+    margin: .5em 15% 2em 15%;
+    color: white;
+    border: 2px solid #2D9CDB;
+    background-color: rgba(255,255,255, .3);
+    border-radius: 10px;
+    font-size: 130%;
+}
+
+.btn-header:hover {
+    background-color: rgba(255,255,255,.5);
+}
+
+.btn-play {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    color: #2D9CDB;
+    font-size: 4em;
+    padding: 0;
+    width: 80px;
+    height: 80px;
+}
+
+.tour-row {
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.tour-row:last-child {
+    border-bottom: none;
+}
+
+.tour-item {
+    display: inline-block;
+    padding-right: 0.5em;;
+}
+
+.tour-date {
+    color: #555;
+    font-weight: bolder;
+    width: 15%;
+}
+
+.tour-name {
+    width: 35%;
+}
+
+.tour-city {
+    width: 24%;
+}
+
+.tour-btn {
+    max-width: 19%;
+}
+
+.btn-prim {
+    color: white;
+    background-color: #2D9CDB;
+    border: none;
+    border-radius: .3em;
+}
+
+.btn-prim:hover {
+    background-color: blue;
+}

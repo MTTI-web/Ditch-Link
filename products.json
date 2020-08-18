@@ -1,0 +1,369 @@
+{
+    "camera": {
+        "nikon": [
+            {
+                "Name": "Nikon D3500",
+                "MRP": "53,950.00",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Nikon-Nikkor-18-55mm-3-5-5-6G-Memory/dp/B07GWKDLGT/ref=sr_1_1?dchild=1&keywords=nikon&qid=1596785651&sr=8-1",
+                    "flipkart":"https://www.flipkart.com/nikon-d3500-dslr-camera-af-p-dx-nikkor-18-55mm-f-3-5-5-6g-vr/p/itmf96hytpvsqdfp?pid=DLLF96HY6CMRZFGT&lid=LSTDLLF96HY6CMRZFGTWJFOJS&marketplace=FLIPKART&spotlightTagId=BestsellerId_jek%2Fp31%2Ftrv&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=13e7c2d2-083e-4f97-bb0c-42a455c051b7.DLLF96HY6CMRZFGT.SEARCH&ppt=sp&ppn=sp&ssid=f908tvcvts0000001596785799320&qH=d962a274a3bb940a",
+                    "tatacliq": "https://www.tatacliq.com/nikon-d3500-af-p-dx-18-55mm-70-300mm-ed-vr-lens-dslr-camera-with-16gb-card-and-carry-case-black/p-mp000000003695509"
+                }
+            },
+            {
+                "Name":"Nikon D5300",
+                "MRP":"51,950.00",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Nikon-24-2MP-Digital-70-300mm-4-5-6-3G/dp/B01LY8TW3M/ref=sr_1_6?dchild=1&keywords=nikon+ds5300&qid=1596785995&sr=8-6",
+                    "flipkart":"https://www.flipkart.com/nikon-d5300-dslr-camera-body-dual-lens-af-p-dx-nikkor-18-55-mm-f-3-5-5-6g-vr-70-300-f-4-5-6-3g-ed-16-gb-sd-card-bag/p/itmemk3gkkkv95pv?pid=DLLEMK3GD3HHK3AT&lid=LSTDLLEMK3GD3HHK3ATYENKJO&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=68c987f9-5c73-4443-bd3d-052d1ce250cd.DLLEMK3GD3HHK3AT.SEARCH&ppt=sp&ppn=sp&ssid=1kfemufoao0000001596786164351&qH=be4b06bbbbcab0b8",
+                    "tatacliq":"Unavailable"
+                }
+            },
+            {
+                "Name": "Nikon D7500",
+                "MRP":"94,950.00",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Nikon-20-9MP-Camera-18-140mm-3-5-5-6G/dp/B06Y5RTN1T/ref=sr_1_3?dchild=1&keywords=nikon+ds5300&qid=1596785995&sr=8-3",
+                    "flipkart":"https://www.flipkart.com/nikon-d7500-dslr-camera-body-18-140-mm-lens/p/itmfckk6zheqazmv?pid=DLLFCKK6GET9EEDC&lid=LSTDLLFCKK6GET9EEDCJXDOAU&marketplace=FLIPKART&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&fm=SEARCH&iid=eff71be0-23ca-441b-8a18-5d8f9db45077.DLLFCKK6GET9EEDC.SEARCH&ppt=sp&ppn=sp&ssid=r61roq14u80000001596786373945&qH=4a73f618e1501eb2",
+                    "tatacliq":"https://www.tatacliq.com/nikon-d7500-with-af-s-nikkor-18-140mm-vr-lens-20-9-mp-dslr-camera-with-16gb-sd-card-black/p-mp000000004475984"
+                }
+            }
+        ],
+        "canon": [
+            {
+                "Name":"Canon EOS 80D",
+                "MRP":"1,05,495.00",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Canon-Digital-18-135mm-3-5-5-6-Stabilization/dp/B01BUYJX6G/ref=sxts_sxwds-deals_mod_primary_lightning_deal?cv_ct_cx=canon+cameras&dchild=1&keywords=canon+cameras&pd_rd_i=B01BUYJX6G&pd_rd_r=05eb2a18-ff6e-4349-af0c-3635e14ae7bd&pd_rd_w=rvChu&pd_rd_wg=51OzZ&pf_rd_p=e6887490-afc1-4277-8361-5ba1545838fa&pf_rd_r=1890730CP613SE0ATNPF&psc=1&qid=1596786508&smid=A14CZOWI0VEHLG&sr=1-1-bdd40f73-f2da-436d-9390-3a81b8b89f3d",
+                    "flipkart":"https://www.flipkart.com/canon-eos-80d-dslr-camera-body-single-lens-ef-s-18-55-stm-16-gb-sd-card/p/itmehdmybxpmw47e?pid=CAMEHDMYMGZT72Z6&lid=LSTCAMEHDMYMGZT72Z6TUXHTW&marketplace=FLIPKART&spotlightTagId=BestvalueId_jek%2Fp31%2Ftrv&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=ec66775d-6fd2-411c-8d52-c546925a9262.CAMEHDMYMGZT72Z6.SEARCH&ppt=sp&ppn=sp&ssid=p045nt950w0000001596786661542&qH=b128a59bfb26fb0b",
+                    "tatacliq":"https://www.tatacliq.com/canon-eos-80d-kit-ii-ef-s18-135mm-is-usm-lens-dslr-camera-with-16gb-card-black/p-mp000000000145994"
+                }
+            },
+            {
+                "Name": "Canon IXUS 185",
+                "MRP": "8,395",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Canon-185-Digital-Camera-Optical/dp/B01NA0BQWK/ref=sr_1_3_mod_primary_lightning_deal?dchild=1&keywords=canon+cameras&qid=1596786769&s=electronics&smid=A14CZOWI0VEHLG&sr=1-3",
+                    "flipkart":"https://www.flipkart.com/canon-ixus-185/p/itmer7kjyjxpfyzg?pid=POIER7KJRZHXH5SK&lid=LSTPOIER7KJRZHXH5SKLEI9J0&marketplace=FLIPKART&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_14_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_14_na_na_ps&fm=SEARCH&iid=bee63ff2-5953-4ab2-8c60-74d13cc04af7.POIER7KJRZHXH5SK.SEARCH&ppt=sp&ppn=sp&ssid=la14m0p08g0000001596786938139&qH=639ecff6e13b98a7",
+                    "tatacliq":"Unaivalable"
+                }
+            },
+            {
+              "Name":"Canon EOS 200D",
+              "MRP": "65,995",
+              "shop":{
+                  "amazon":"https://www.amazon.in/Canon-EOS-200D-II-55-250mm/dp/B07S26X16N/ref=sr_1_4?dchild=1&keywords=canon+cameras&qid=1596786769&s=electronics&sr=1-4",
+                  "flipkart":"https://www.flipkart.com/canon-eos-200d-ii-dslr-camera-ef-s-18-55-mm-stm-250/p/itmc590e10a05dd4?pid=DLLFFNVDXGZDMGAQ&lid=LSTDLLFFNVDXGZDMGAQCCDFNE&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=2744b454-aa74-4d2c-9ede-4feaa646beae.DLLFFNVDXGZDMGAQ.SEARCH&ppt=sp&ppn=sp&ssid=i2qsu15hm80000001596787625173&qH=097997ac2cad46db",
+                  "tatacliq":"https://www.tatacliq.com/canon-eos-200d-ii-ef-s-18-55mm-f4-5-6-is-stm-dslr-camera-with-16gb-card-and-carry-case-black/p-mp000000004686624"
+              }  
+            }
+        ],
+        "fujifilm":[
+            {
+                "Name":"Fujifilm X-T100",
+                "MRP": "39,999",
+                "shop":{
+                    "amazon":"https://www.amazon.in/X-T100-XC15-45mm-Lens-Kit-Black/dp/B07D7BQXBW/ref=sr_1_4_mod_primary_lightning_deal?dchild=1&keywords=fujifilm+cameras&qid=1596787789&s=electronics&smid=A14CZOWI0VEHLG&sr=1-4",
+                    "flipkart":"https://www.flipkart.com/fujifilm-x-series-x-t100-mirrorless-camera-body-xc-15-45-mm-lens-f3-5-5-6-ois-pz/p/itmffhnyesyzfrrk?pid=DLLFFHNYM25CFZYP&lid=LSTDLLFFHNYM25CFZYPUBERK7&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=073a784b-ed69-4c5e-beda-765b55dfdd6c.DLLFFHNYM25CFZYP.SEARCH&ppt=sp&ppn=sp&ssid=yei4tigx2o0000001596787887846&qH=07e5164c6feeea29",
+                    "tatacliq":"Unavailable"
+                }
+            },
+            {
+                "Name":"Fujifilm Instax Mini 9",
+                "MRP":"5,530",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Fujifilm-Instax-Mini-Ice-Blue/dp/B06WW64YM6/ref=sr_1_3_mod_primary_lightning_deal?dchild=1&keywords=fujifilm+cameras&qid=1596787789&s=electronics&smid=A14CZOWI0VEHLG&sr=1-3",
+                    "flipkart":"https://www.flipkart.com/fujifilm-instax-mini-9-party-box-lime-green-instant-camera/p/itmfh7qyzrszsxy3?pid=INAFH795844HSZCF&lid=LSTINAFH795844HSZCFYVZYRT&marketplace=FLIPKART&srno=s_1_5&otracker=search&otracker1=search&fm=SEARCH&iid=7d286af4-2a9c-405a-b019-bfb53bfa1bb1.INAFH795844HSZCF.SEARCH&ppt=sp&ppn=sp&ssid=nr81em89kg0000001596788067642&qH=92d48cbb45948eae",
+                    "tatacliq":"https://www.tatacliq.com/fujifilm-instax-mini-9-instant-camera-ice-blue/p-mp000000001921659"
+                }
+            },
+            {
+                "Name":"Fujifilm Instax Mini 11",
+                "MRP": "5,999",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Fujifilm-Instax-Instant-Camera-Charcoal/dp/B0852844YB/ref=sr_1_7?dchild=1&keywords=fujifilm+cameras&qid=1596787789&s=electronics&sr=1-7",
+                    "flipkart":"https://www.flipkart.com/fujifilm-instax-mini-11-instant-camera/p/itm6071dc57cb3e4?pid=INAFSRZAK52GT3CM&lid=LSTINAFSRZAK52GT3CM2NJKO1&marketplace=FLIPKART&srno=s_1_2&otracker=search&otracker1=search&fm=SEARCH&iid=a6ad9790-60a8-4c54-84eb-c30ba11fbb4b.INAFSRZAK52GT3CM.SEARCH&ppt=sp&ppn=sp&ssid=sblw2iif0w0000001596788248776&qH=26709020b938e72c",
+                    "tatacliq":"https://www.tatacliq.com/fujifilm-instax-mini-11-instant-camera-sky-blue/p-mp000000007340674"
+                }
+            }
+        ],
+        "sony": [
+            {
+                "Name":"Sony Alpha ILCE 6100",
+                "MRP": "64,990",
+                "shop": {
+                    "amazon":"https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A0699034167QTT0WYMPLJ&url=%2FSony-ILCE-6100Y-Mirrorless-Real-time-Tracking%2Fdp%2FB081JRLB4P%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dsony%2Bcameras%26qid%3D1597158310%26sr%3D8-1-spons%26psc%3D1&qualifier=1597158310&id=3551824714077387&widgetName=sp_atf",
+                    "flipkart":"Not Available",
+                    "tatacliq":"https://www.tatacliq.com/sony-alpha-ilce-6100l-16-50mm-power-zoom-lens-mirrorless-camera-with-carry-case-black/p-mp000000005954636"
+                }
+            },
+            {
+                "Name":"Sony Alpha ILCE5100L",
+                "MRP":"38,690",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Sony-ILCE5100L-24-3MP-Digital-16-50mm/dp/B00MHPAFAG/ref=sr_1_4?dchild=1&keywords=sony+cameras&qid=1597158310&sr=8-4",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Sony ILCE-7M3K",
+                "MRP":"171,990",
+                "shop": {
+                    "tatacliq":"https://www.tatacliq.com/sony-ilce-7m3k-with-28-70mm-dslr-camera-black/p-mp000000003316702",
+                    "amazon":"https://www.amazon.in/Sony-ILCE-7M3K-Full-Frame-Mirrorless-Interchangeable/dp/B07DPSQRFF/ref=sr_1_1?dchild=1&keywords=sony+ilce7m3k&qid=1597158884&sr=8-1",
+                    "flipkart":"https://www.flipkart.com/sony-alpha-7m3k-mirrorless-camera-body-28-70-mm-zoom-lens/p/itmf7gbgkkrf7whx?pid=DLLF7GBGWYNB5SZK&lid=LSTDLLF7GBGWYNB5SZK9LYL46&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=14150535-e467-4ff9-9a54-2dda0e0c1238.DLLF7GBGWYNB5SZK.SEARCH&ppt=sp&ppn=sp&ssid=aseuk6jlmo0000001597158939096&qH=151414579c11b492"
+                }
+            }
+        ],
+        "gopro":[
+            {
+                "Name":"GoPro HERO7",
+                "MRP":"30,500",
+                "shop": {
+                    "amazon":"https://www.amazon.in/GoPro-CHDHX-701-RW-Hero7-Camera-Black/dp/B07GSVDFTQ/ref=sr_1_2?dchild=1&keywords=gopro&qid=1597159071&sr=8-2",
+                    "flipkart":"https://www.flipkart.com/gopro-hero-7-black-adventure-kit-sports-action-camera/p/itm79cb05789c004?pid=SAYFSHFUGEF5X9MX&lid=LSTSAYFSHFUGEF5X9MX2RGNIW&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=50dfdcbe-d520-4d14-863b-de7b37626be1.SAYFSHFUGEF5X9MX.SEARCH&ppt=sp&ppn=sp&ssid=poztx1bdog0000001597159154952&qH=a2d4e1c1217d971a",
+                    "tatacliq":"https://www.tatacliq.com/gopro-hero-7-chdhx-701-rw-12-mp-sports-and-action-camera-black/p-mp000000003695515"
+                }
+            },
+            {
+                "Name":"GoPro HERO8",
+                "MRP": "39,500",
+                "shop": {
+                    "amazon":"https://www.amazon.in/GoPro-HERO8-Black-Holiday-Bundle/dp/B07XP44MTV/ref=sr_1_4?dchild=1&keywords=gopro&qid=1597159071&sr=8-4",
+                    "flipkart":"https://www.flipkart.com/gopro-hero8-black-holiday-bundle-sports-action-camera/p/itmcb996db2067f7?pid=SAYFMTDNXMSJZ5BS&lid=LSTSAYFMTDNXMSJZ5BSBEB9EG&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=c1767e00-c7bf-4111-979b-891d4f71204a.SAYFMTDNXMSJZ5BS.SEARCH&ppt=sp&ppn=sp&ssid=2rbd4ivk000000001597159976879&qH=bcac987f6575e2d1",
+                    "tatacliq":"https://www.tatacliq.com/gopro-hero-8-chdhx-801-12mp-sports-and-action-camera--holiday-bundle-black/p-mp000000006063813"
+                }
+            }
+        ],
+        "panasonic": [
+            {
+                "Name":"Panasonic LUMIX G7",
+                "MRP":"49,770",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Panasonic-DMC-G7KGW-K-Mirrorless-Camera-Black/dp/B07JLXC5BR/ref=sr_1_1?dchild=1&keywords=panasonic+cameras&qid=1597160200&sr=8-1",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Panasonic DC-GH5GA-K",
+                "MRP":"1,14,800",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Panasonic-Lumix-DC-GH5GA-K-Camera-Body/dp/B0711LSJFX/ref=sr_1_3?dchild=1&keywords=panasonic+cameras&qid=1597160200&sr=8-3",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Panasonic LUMIX G85K",
+                "MRP":"67,300",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Panasonic-DMC-G85K-Camera-14-42mm-F3-5-5-6/dp/B07C6JDRRC/ref=sr_1_2?dchild=1&keywords=panasonic+lumix+g85k&qid=1597161097&sr=8-2",
+                    "flipkart":"https://www.flipkart.com/panasonic-4k-g-series-lumix-g85k-mirrorless-camera-body-single-lens-14-42mm/p/itmffgx87yuythbc?pid=DLLFFGX8DDDCDV4W&lid=LSTDLLFFGX8DDDCDV4WLTVXCI&marketplace=FLIPKART&spotlightTagId=BestvalueId_search.flipkart.com&srno=s_1_3&otracker=search&otracker1=search&fm=SEARCH&iid=9ca7c959-f871-40ca-86d2-65352f6fd8d8.DLLFFGX8DDDCDV4W.SEARCH&ppt=sp&ppn=sp&ssid=g0qwg67hz40000001597160969456&qH=7b862aeec6d9839e",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ]
+    },
+    "router": {
+        "iball": [
+            {
+                "Name":"iBall Baton iB-WRX150Nm 150M",
+                "MRP":"1,399",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Baton-iB-WRX150NM-Extreme-Wireless-N-Router/dp/B00MK60YBW/ref=sr_1_1?dchild=1&keywords=iBall+Baton+1B-WRD12EN+1200M&qid=1597482881&sr=8-1",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"iBall Baton iB-WRD12EN 1200M",
+                "MRP":"5,999",
+                "shop": {
+                    "amazon":"https://www.amazon.in/iBall-iB-WRD12EN-Smart-Wireless-Router/dp/B07F3P1PMR/ref=sr_1_1?dchild=1&keywords=iBall+routers&qid=1597483090&sr=8-1",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"iBall 300M WRB300N",
+                "MRP":"1,250",
+                "shop": {
+                    "amazon":"https://www.amazon.in/iBall-300M-WRB300N-Wireless-N-Router/dp/B00P7SAM7G/ref=sr_1_2?dchild=1&keywords=iBall+routers&qid=1597483090&sr=8-2",
+                    "flipkart":"Not Available",
+                    "tatacliq": "Not Available"
+                }
+            }
+        ],
+        "leoxsys": [
+            {
+                "Name":"Leoxsys LEO-300N-R4",
+                "MRP":"1,590",
+                "shop": {
+                    "amazon":"https://www.amazon.in/LEOXSYS-LEO-300N-R4-Wireless-Broadband-Repeater/dp/B07GCKJ5JZ/ref=sr_1_2?dchild=1&keywords=leoxsys+routers&qid=1597557716&sr=8-2",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name": "Leoxsys LEO-300N-4G",
+                "MRP": "6,990",
+                "shop": {
+                    "flipkart":"https://www.flipkart.com/leoxsys-leo-300n-4g-4g-lte-sim-wifi-300m-router-300-mbps/p/itm84027ad2c8f08?pid=RTRFTPMBSKECGKPP&lid=LSTRTRFTPMBSKECGKPPAT49YK&marketplace=FLIPKART&srno=s_1_2&otracker=search&otracker1=search&fm=SEARCH&iid=7872e7d4-436b-49ed-9d1b-12baf92680c4.RTRFTPMBSKECGKPP.SEARCH&ppt=sp&ppn=sp&ssid=4bkqlmau5c0000001597557807386&qH=19cf4012bb28251c",
+                    "amazon":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name": "Leoxsys Outdoor 4G LTE CPE Router",
+                "MRP":"7,990",
+                "shop": {
+                    "amazon":"https://www.amazon.in/LEOXSYS-Outdoor-Hotspot-Waterproof-LEO-300N-4G-OC/dp/B08D1NNGT6/ref=sr_1_1?dchild=1&keywords=Leoxsys+LEO-300N-4G&qid=1597557954&sr=8-1",
+                    "flipkart":"https://www.flipkart.com/leoxsys-outdoor-4g-lte-sim-wifi-300m-cpe-router-3g-2g-support-300-mbps/p/itmf75ff7df5c1a9?pid=RTRFTZ5CZZJ7HYHR&lid=LSTRTRFTZ5CZZJ7HYHRJVCHZW&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=7872e7d4-436b-49ed-9d1b-12baf92680c4.RTRFTZ5CZZJ7HYHR.SEARCH&ppt=sp&ppn=sp&ssid=4bkqlmau5c0000001597557807386&qH=19cf4012bb28251c",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ],
+        "asus": [
+            {
+                "Name":"Asus RT-AC5300",
+                "MRP": "34,750",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Asus-RT-AC5300-Tri-Band-Wireless-Router/dp/B06XPL2FM7/ref=sr_1_1?dchild=1&keywords=asus+routers&qid=1597558206&sr=8-1",
+                    "flipkart":"https://www.flipkart.com/asus-rt-ac5300-3200-mbps-router/p/itmf2eghczdpcgmq?pid=RTRFYRAHZJEHGHPR&lid=LSTRTRFYRAHZJEHGHPRXVEWEE&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=2748108f-26b9-4284-ad10-f12528b8c1f1.RTRFYRAHZJEHGHPR.SEARCH&ppt=sp&ppn=sp&ssid=ebxqxm8qv40000001597558415560&qH=4ac9e75afb90b574",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name": "Asus RT-AC59U Dual Band Router",
+                "MRP":"8,500",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Asus-RT-AC59U-Dual-Gigabit-Router/dp/B07Z82WB3V/ref=sr_1_4?dchild=1&keywords=asus+routers&qid=1597558206&sr=8-4",
+                    "flipkart":"https://www.flipkart.com/asus-rt-ac59u-ac1500-gigabit-1500-mbps-router/p/itm34abebab75d49?pid=RTRFMRPVWFBHCDBZ&lid=LSTRTRFMRPVWFBHCDBZUTVVB7&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=14b9a113-605b-4262-b8fe-f3ee1a03a236.RTRFMRPVWFBHCDBZ.SEARCH&ppt=sp&ppn=sp&ssid=dpzu2hsci80000001597558544209&qH=9e07039cfbc44341",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name": "Asus RT-AX92U",
+                "MRP":"39,500",
+                "shop" : {
+                    "amazon":"https://www.amazon.in/Asus-RT-AX92U-Triband-Wifi6-Router/dp/B07YD49FZT/ref=sr_1_5?dchild=1&keywords=asus+routers&qid=1597558206&sr=8-5",
+                    "tatacliq":"Not Available",
+                    "flipkart": "https://www.flipkart.com/asus-rt-ax92u-6100-mbps-router/p/itmffhezpdqruvvh?pid=RTRFFHENWMYGRYYX&lid=LSTRTRFFHENWMYGRYYXMMFGGI&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=273a5647-0fc0-40eb-9f98-ce96ee4f7e2f.RTRFFHENWMYGRYYX.SEARCH&ppt=sp&ppn=sp&ssid=yijhessx1c0000001597559000977&qH=8b10e3851e2fc30a"
+                }
+            }
+        ],
+        "netgear": [
+            {
+                "Name":"Netgear Nighthawk R7000P AC2300",
+                "MRP":"16,999",
+                "shop":{
+                    "amazon":"https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A08316583HP0Z44DI0STR&url=%2FNetgear-%25E0%25A4%25A8%25E0%25A4%25BE%25E0%25A4%2588%25E0%25A4%259F%25E0%25A4%25B9%25E0%25A5%2589%25E0%25A4%2595-%25E0%25A4%25B8%25E0%25A5%258D%25E0%25A4%25AE%25E0%25A4%25BE%25E0%25A4%25B0%25E0%25A5%258D%25E0%25A4%259F-MU-MIMO-%25E0%25A4%25A1%25E0%25A5%2581%25E0%25A4%2585%25E0%25A4%25B2-%25E0%25A4%25AC%25E0%25A5%2588%25E0%25A4%2582%25E0%25A4%25A1%2Fdp%2FB075JMF84S%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dnetgear%2Brouters%26qid%3D1597719295%26sr%3D8-1-spons%26psc%3D1&qualifier=1597719295&id=138224299236563&widgetName=sp_atf",
+                    "flipkart":"https://www.flipkart.com/netgear-r7000-ac1900-dual-band-nighthawk-smart-wifi-router/p/itmdykuhkey6hkph?pid=RTRDYKU6ANVPXCD4&lid=LSTRTRDYKU6ANVPXCD4UTI3PP&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=2153d38f-316a-4e70-baf1-7251fff2fbd8.RTRDYKU6ANVPXCD4.SEARCH&ppt=sp&ppn=sp&ssid=spf9cx86pcobatq81597719363257&qH=6d15b202c4a5fad5",
+                    "tatacliq":"https://www.tatacliq.com/netgear-nighthawk-r7000p-ac2300-smart-dual-band-gigabit-wi-fi-router-black/p-mp000000004999602"
+                }
+            },
+            {
+                "Name": "Netgear R6120-100INS AC1200",
+                "MRP":"2,899",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Netgear-R6120-100INS-AC1200-Dual-Band-Router/dp/B0756FP9DH/ref=sr_1_2?dchild=1&keywords=netgear+routers&qid=1597719295&sr=8-2",
+                    "flipkart":"https://www.flipkart.com/netgear-r6120-100ins-1200-mbps-router/p/itmfyfdhzzyt3sqx?pid=RTRFYFDHGJ4GUDUH&lid=LSTRTRFYFDHGJ4GUDUHXHVL1W&marketplace=FLIPKART&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_11_sc_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_11_sc_na_na&fm=SEARCH&iid=e6e988cc-b245-4c84-ab5f-998278070703.RTRFYFDHGJ4GUDUH.SEARCH&ppt=sp&ppn=sp&ssid=68nbn9125gh4vdvk1597721106082&qH=0d8f89edd43d7495",
+                    "tatacliq":"https://www.tatacliq.com/netgear-r6120-ac1200-dual-band-wi-fi-router-black/p-mp000000003513209"
+                }
+            },
+            {
+                "Name":"Netgear R6260 AC1600",
+                "MRP":"6,260",
+                "shop": {
+                    "amazon":"https://www.amazon.in/Netgear-R6260-AC1600-Smart-Router/dp/B07B1B2CZV/ref=sr_1_4?dchild=1&keywords=netgear+routers&qid=1597719295&sr=8-4",
+                    "flipkart":"Not Available",
+                    "tatacliq":"https://www.tatacliq.com/netgear-r6260-ac1600-smart-wifi-router-black/p-mp000000004999584"
+                }
+            } 
+        ]
+    },
+    "cctv": {
+        "cpplus":[
+            {
+                "Name":"CP Plus SRPL 2.4MP Cosmic Bullet",
+                "MRP":"2,100",
+                "shop":{
+                    "amazon":"https://www.amazon.in/CP-Cosmic-Vision-Camera-CP-VAC-D24L2-V3/dp/B07W8VMZPV/ref=sr_1_3?dchild=1&keywords=cp+plus+cctv&qid=1597724422&sr=8-3",
+                    "flipkart":"https://www.flipkart.com/cp-plus-2-4mp-full-hd-ir-cosmic-bullet-camera-20mtr-security/p/itm63f7dc932af49?pid=HSAFMSCB327YPHFE&lid=LSTHSAFMSCB327YPHFELFP2MZ&marketplace=FLIPKART&srno=s_1_4&otracker=search&otracker1=search&fm=SEARCH&iid=b5dffa0c-648f-4ee8-a083-5f6fce5692a8.HSAFMSCB327YPHFE.SEARCH&ppt=sp&ppn=sp&ssid=cf1l8ume9nzniuww1597724516038&qH=454a15b4bc1c7c58",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"CP Plus SRPL 2.4MP Cosmic Dome",
+                "MRP":"2,100",
+                "shop":{
+                    "amazon":"https://www.amazon.in/CP-Cosmic-Vision-Camera-CP-VAC-D24L2-V3/dp/B07W8VMZPV/ref=sr_1_3?dchild=1&keywords=cp+plus+cctv&qid=1597724422&sr=8-3",
+                    "flipkart":"https://www.flipkart.com/cp-plus-cp-usc-da24l2-2-4mp-1080p-ir-cosmic-night-vision-dome-camera-security/p/itm2c9f386cdce74?pid=HSAFHSVZY7ZYYG4X&lid=LSTHSAFHSVZY7ZYYG4XUZTUBE&marketplace=FLIPKART&srno=s_1_2&otracker=search&otracker1=search&fm=SEARCH&iid=2ca97626-352e-49b6-a05b-02bd25f4464e.HSAFHSVZY7ZYYG4X.SEARCH&ppt=sp&ppn=sp&ssid=g24sq2kjldzglpfk1597727536588&qH=0b28554fee35daaf",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ],
+        "godrej":[
+            {
+                "Name":"Godrej Eve Nx",
+                "MRP":"2,999",
+                "shop":{
+                    "amazon":"https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A04461343TU7VPPL78Q7Q&url=%2FGodrej-Eve-Nx-Security-Detection%2Fdp%2FB0886W1FXF%2Fref%3Dsr_1_1_sspa%3Fdchild%3D1%26keywords%3Dgodrej%2Bcctv%26qid%3D1597728065%26sr%3D8-1-spons%26psc%3D1&qualifier=1597728065&id=2920670679132061&widgetName=sp_atf",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Godrej Eve Nx PT",
+                "MRP":"3,199",
+                "shop":{
+                    "amazon":"https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A04459782YMK85Q1N0D1E&url=%2FGodrej-Eve-Nx-PT-Security%2Fdp%2FB0886XDDDF%2Fref%3Dsr_1_2_sspa%3Fdchild%3D1%26keywords%3Dgodrej%2Bcctv%26qid%3D1597728065%26sr%3D8-2-spons%26psc%3D1&qualifier=1597728065&id=2920670679132061&widgetName=sp_atf",
+                    "flipkart":"https://www.flipkart.com/godrej-eve-nx-pt-security-camera/p/itmac94e5ade49b3?pid=HSAFTGHWH2VGYAGR&lid=LSTHSAFTGHWH2VGYAGRWFRMGQ&marketplace=FLIPKART&srno=s_1_1&otracker=search&otracker1=search&fm=SEARCH&iid=28b32f9e-123d-498d-8dbb-6419b1c714f7.HSAFTGHWH2VGYAGR.SEARCH&ppt=sp&ppn=sp&ssid=2iz5b23ihn4rvzeo1597728170487&qH=86df208ebbbc4951",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Godrej Seethru",
+                "MRP": "1.049",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Godrej-Seethru-Indoor-Security-Camera/dp/B01E74YAFU/ref=sr_1_7?dchild=1&keywords=godrej+cctv&qid=1597728065&sr=8-7",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ],
+        "samsung":[
+            {
+                "Name":"Samsung CCTV Camera Home",
+                "MRP":"5,999",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Samsung-SDC-435-Resolution-C-Mount-Microscope/dp/B003NBSQOK/ref=sr_1_3?dchild=1&keywords=samsung+cctv&qid=1597728559&sr=8-3",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            },
+            {
+                "Name":"Samsung CCTV Full HD",
+                "MRP":"6,000",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Samsung-CCTV-Megapixel-1080P-Camera/dp/B0725PR8P4/ref=sr_1_4?dchild=1&keywords=samsung+cctv&qid=1597728559&sr=8-4",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ],
+        "sony": [
+            {
+                "Name":"Sony Microscope High Resolution CCTV",
+                "MRP":"25,420",
+                "shop":{
+                    "amazon":"https://www.amazon.in/Microscope-SSC-G213-Resolution-CCTV-C-MOUNT/dp/B075QD7Y2L/ref=sr_1_2?dchild=1&keywords=sony+cctv&qid=1597728931&sr=8-2",
+                    "flipkart":"Not Available",
+                    "tatacliq":"Not Available"
+                }
+            }
+        ]
+    }
+}
